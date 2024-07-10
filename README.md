@@ -27,7 +27,10 @@ Welcome to the PS5 Store repository! This project is a fully responsive e-commer
    git clone https://github.com/your-username/ps5-store.git
    ```
 
-2. Navigate to the project directory: `cd PS5-Store---Responsive-Website`
+2. Navigate to the project directory: 
+```bash
+cd PS5-Store---Responsive-Website
+```
 
 3. Open `index.html` in your preferred web browser to view the website.
 
