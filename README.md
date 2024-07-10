@@ -1,6 +1,6 @@
 # PS5 Store - Responsive Website
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 Welcome to the PS5 Store repository! This project is a fully responsive e-commerce website dedicated to showcasing and selling PlayStation 5 consoles, games, and accessories. Designed to provide an exceptional user experience across all devices, our site ensures smooth navigation and a visually appealing interface.
 
